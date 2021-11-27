@@ -1,0 +1,127 @@
+[[Kissat]]
+arch = "aarch64"
+git-tree-sha1 = "ed34abb5d56cf0a960f504f3abed6e323683a6f4"
+os = "macos"
+
+    [[Kissat.download]]
+    sha256 = "0d5c33f2a1ddcedddfebae8c0e683d9649e472c5d01a0f5b672df0dfc68add22"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.aarch64-apple-darwin.tar.gz"
+[[Kissat]]
+arch = "aarch64"
+git-tree-sha1 = "8e255a336d563e67e4620efd3e05c31da7d3470d"
+libc = "glibc"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "f16a1ad04e2752e55b97e3d4d1c50b2b1c344503ecaf3132506310871d3e812d"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.aarch64-linux-gnu.tar.gz"
+[[Kissat]]
+arch = "aarch64"
+git-tree-sha1 = "9f15c96946d8cc204832d7388d3be7e7b3b65e6b"
+libc = "musl"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "b496ea7b9fec266552ce13b911bfe731d4a2802a058e4187c1bbe6914cff07de"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.aarch64-linux-musl.tar.gz"
+[[Kissat]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a6e54941202c02b79923280777329d71ec56be21"
+libc = "glibc"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "55bc8451e94993f0e90ae71d7ac7b29dbb952dde43138585430eaa0466f06372"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.armv6l-linux-gnueabihf.tar.gz"
+[[Kissat]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fc00e8826a55a86bcc59c48f9b8a611d68724853"
+libc = "musl"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "4b01780f00ae938f3aa741c5556eca90f01e8a97b379a992f68a6b291607d1bf"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.armv6l-linux-musleabihf.tar.gz"
+[[Kissat]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a239307a0eaf647efc3d22add676384a1010ac30"
+libc = "glibc"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "5036cff71c1a6fefc43ae78546704ceb0d586ae43965a5cf7c9010103510ad11"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.armv7l-linux-gnueabihf.tar.gz"
+[[Kissat]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "63c70e10c7c8593c82e2f15380743197e73ea9ef"
+libc = "musl"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "ae20138a2d169de64b50dc3d15b99cb7377c38681292deb5c1d3df84adb17a64"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.armv7l-linux-musleabihf.tar.gz"
+[[Kissat]]
+arch = "i686"
+git-tree-sha1 = "6cc2e473f6c41f2182198d8a6a1d10f7d5c4367f"
+libc = "glibc"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "5834a190beff7c2750a667e573e9f2581a65e60c24311419596a5542917c09c0"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.i686-linux-gnu.tar.gz"
+[[Kissat]]
+arch = "i686"
+git-tree-sha1 = "a053e231fb684332c9ebecea0124437b1f082390"
+libc = "musl"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "61a4f5fb4ee3de98cdb727ac094fc8c77fe3265bcc01686092672c44c80ee765"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.i686-linux-musl.tar.gz"
+[[Kissat]]
+arch = "powerpc64le"
+git-tree-sha1 = "7c6ba9c7a5c8b1445ffe93164ca2a120f399922f"
+libc = "glibc"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "73cabbb70e5f02b66d2d56bc8e6a64a6330041578b44d8a6054e6bcb34c52ba4"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.powerpc64le-linux-gnu.tar.gz"
+[[Kissat]]
+arch = "x86_64"
+git-tree-sha1 = "3f4cb17fdd5e06f082fb30c4b6d899a3ca82addc"
+os = "macos"
+
+    [[Kissat.download]]
+    sha256 = "90708bd8a68f478147744b26c5859aacf5bf29b4b4ed1865987459bdbe3cebb3"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.x86_64-apple-darwin.tar.gz"
+[[Kissat]]
+arch = "x86_64"
+git-tree-sha1 = "e3921e44d7fc13d5ec6837a78be167fd2ae0ae1f"
+libc = "glibc"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "36735c5b3d2685dce202c460a1c6dfc49d907d9d0b9f30373ed3fe7da52d20ab"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.x86_64-linux-gnu.tar.gz"
+[[Kissat]]
+arch = "x86_64"
+git-tree-sha1 = "5a34de9c389aca823be9f3d8881fb037133df7d1"
+libc = "musl"
+os = "linux"
+
+    [[Kissat.download]]
+    sha256 = "ed26667a3f6faca352221fd1a538d392afd27dc4e69056fc95592dde5720b171"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.x86_64-linux-musl.tar.gz"
+[[Kissat]]
+arch = "x86_64"
+git-tree-sha1 = "f74b5fa1135da7e5b3da1a889c6e94a7a229b450"
+os = "freebsd"
+
+    [[Kissat.download]]
+    sha256 = "deefd45a6cee90f38b5926d96481b2981251f25d35f9ff7874f6eef3f951edcd"
+    url = "https://github.com/JuliaBinaryWrappers/Kissat_jll.jl/releases/download/Kissat-v5.8.0+0/Kissat.v5.8.0.x86_64-unknown-freebsd.tar.gz"
