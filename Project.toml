@@ -1,6 +1,6 @@
 name = "Kissat_jll"
 uuid = "971a2a11-349f-5eb6-a4bf-bc548fa92b3a"
-version = "2.0.0+0"
+version = "3.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
